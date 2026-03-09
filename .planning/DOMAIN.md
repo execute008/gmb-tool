@@ -48,6 +48,10 @@
 | **Inline Badge** | A small tag element injected into the Maps DOM to show categories |
 | **Category Pill** | A clickable styled pill element showing a single category; primary is blue, secondary is gray; clicking searches Maps for that category |
 | **SPA Navigation** | Single-page app navigation — Maps doesn't do full page reloads |
+| **Audit Button** | Injected trigger element near the business name that opens the audit panel |
+| **Audit Panel** | Slide-in side panel from the right displaying all extracted GBP data |
+| **Audit Section** | Collapsible group of related fields in the audit panel (Basic Info, Contact, Reviews, Attributes, Links) |
+| **Business Profile Data** | Complete extracted dataset (20+ fields) from a GBP page |
 
 ## Context Map
 
