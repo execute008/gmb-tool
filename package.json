@@ -15,6 +15,7 @@
   "devDependencies": {
     "@preact/preset-vite": "^2.8.0",
     "autoprefixer": "^10.4.17",
+    "chrome-types": "^0.1.422",
     "happy-dom": "^13.3.0",
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",

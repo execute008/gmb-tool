@@ -18,6 +18,9 @@ importers:
       autoprefixer:
         specifier: ^10.4.17
         version: 10.4.27(postcss@8.5.8)
+      chrome-types:
+        specifier: ^0.1.422
+        version: 0.1.422
       happy-dom:
         specifier: ^13.3.0
         version: 13.10.1
@@ -581,6 +584,9 @@ packages:
   chokidar@3.6.0:
     resolution: {integrity: sha512-7VT13fmjotKpGipCW9JEQAusEPE+Ei8nl6/g4FBAmIm0GOOLMua9NDDo/DWp0ZAxCr3cPq5ZpBqmPAQgDda2Pw==}
     engines: {node: '>= 8.10.0'}
+
+  chrome-types@0.1.422:
+    resolution: {integrity: sha512-MgPDW7KFMTLUIHJtwybUcF7AoYenjPEGqJidFYojJuNSSM0kjuO293w+79t1VLkI1RcNS/2yCJLDglCW6X8tTQ==}
 
   commander@4.1.1:
     resolution: {integrity: sha512-NOKm8xhkzAjzFx8B2v5OAHT+u5pRQc2UCa2Vq9jYL/31o2wi9mxBA7LIFs3sV5VSC49z6pEhfbMULvShKj26WA==}
@@ -1672,6 +1678,8 @@ snapshots:
       readdirp: 3.6.0
     optionalDependencies:
       fsevents: 2.3.3
+
+  chrome-types@0.1.422: {}
 
   commander@4.1.1: {}
 
