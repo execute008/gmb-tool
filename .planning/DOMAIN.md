@@ -52,6 +52,10 @@
 | **Audit Panel** | Slide-in side panel from the right displaying all extracted GBP data |
 | **Audit Section** | Collapsible group of related fields in the audit panel (Basic Info, Contact, Reviews, Attributes, Links) |
 | **Business Profile Data** | Complete extracted dataset (20+ fields) from a GBP page |
+| **Scan Button** | Floating trigger element (bottom-right corner) on search results pages that opens the scan panel |
+| **Scan Panel** | Wide overlay displaying the comparison table of all search result GBPs |
+| **Search Result Entry** | Extracted data from one GBP listing in search results (name, category, rating, reviewCount, attributes) |
+| **Comparison Table** | Sortable table showing all search result entries side-by-side, one row per business |
 
 ## Context Map
 
