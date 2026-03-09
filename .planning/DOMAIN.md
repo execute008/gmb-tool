@@ -46,6 +46,7 @@
 | **Audit** | Extracting and displaying all available data points for a single GBP |
 | **Selector Config** | Centralized file mapping logical field names to CSS selectors |
 | **Inline Badge** | A small tag element injected into the Maps DOM to show categories |
+| **Category Pill** | A clickable styled pill element showing a single category; primary is blue, secondary is gray; clicking searches Maps for that category |
 | **SPA Navigation** | Single-page app navigation — Maps doesn't do full page reloads |
 
 ## Context Map
